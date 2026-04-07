@@ -10,13 +10,13 @@
  1. Authentication System
 	•	Secure login
 
-➕ Additional:
+ Additional:
 	•	Role-based access (Driver / Rider)
 	•	Profile management
 
 ⸻
 
-🧍 2. Rider Features
+ 2. Rider Features
 	•	Request a trip (pickup + destination)
 	•	Real-time driver tracking (live location)
 	•	Trip history
@@ -24,7 +24,7 @@
   
 ⸻
 
-📍 3. Real-Time System
+ 3. Real-Time System
 	•	WebSocket-based communication
 	•	Live driver location updates
 	•	Instant trip status updates
@@ -32,7 +32,7 @@
 ⸻
 
 
-🧱 System Architecture
+ System Architecture
 
 Frontend (Angular)
         ↓
