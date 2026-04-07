@@ -1,13 +1,13 @@
 # taxi-clone
 (user based only) get location - (select)destination - price by distance(km*x+arr.size());
 
-🚖 Taxi-Core — Uber-like Ride Sharing System
+ Taxi-Core — Uber-like Ride Sharing System
 
-📌 Project Description
+ Project Description
 
-🚀 Core Features
+ Core Features
 
-🔐 1. Authentication System
+ 1. Authentication System
 	•	Secure login
 
 ➕ Additional:
@@ -74,22 +74,4 @@ Other:
 REQUESTED → ACCEPTED → IN_PROGRESS → COMPLETED
 
 
-⸻
 
-📡 Location System
-	•	GPS-based driver tracking
-	•	Nearby driver matching (PostGIS queries)
-
-
-📁 Project Structure
-
-backend/
- ├── users/
- ├── drivers/
- ├── trips/
- ├── payments/
-
-frontend/
- ├── rider/
- ├── driver/
- ├── auth/
