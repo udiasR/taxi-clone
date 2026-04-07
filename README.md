@@ -1,2 +1,2 @@
 # taxi-clone
-get location - destination - price by distance(km*x+arr.size());
+(user based only) get location - destination - price by distance(km*x+arr.size());
