@@ -1,2 +1,2 @@
 # taxi-clone
-(user based only) get location - destination - price by distance(km*x+arr.size());
+(user based only) get location - (select)destination - price by distance(km*x+arr.size());
